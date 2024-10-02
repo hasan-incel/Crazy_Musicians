@@ -62,33 +62,8 @@ Welcome to the Crazy Musicians! API, a simple ASP.NET Core Web API that allows y
 - **Endpoint**: `DELETE /api/musicians/{id}`
 - **Description**: Removes a musician from the list.
 
-## Getting Started
-
-### Prerequisites
-- .NET SDK (version 6.0 or later)
-- A code editor (e.g., Visual Studio, VS Code)
-
-### Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Crazy_Musicians.git
-    cd Crazy_Musicians
-    ```
-2. Restore dependencies:
-    ```bash
-    dotnet restore
-    ```
-
-3. Run the application:
-    ```bash
-    dotnet run
-    ```
-
 ### Testing the API
 You can test the API using tools like [Postman](https://www.postman.com/) or Swagger.
 
-## Contributing
-Contributions are welcome! Feel free to submit a pull request.
 
-## License
-This project is licensed under the MIT License.
+
